@@ -15,19 +15,15 @@ $_['text_payment_address']  = 'Apmokėjimo adresas';
 $_['text_payment_method']   = 'Apmokėjimo būdas:';
 $_['text_comment']          = 'Komentarai prie užsakymo';
 $_['text_history']          = 'Užsakymo istorija';
-$_['text_success']          = 'Jūs sėkmingai pridėjote prekes iš užsakymo numeriu #%s į savo krepšelį!';
+$_['text_success']          = 'Jūs sėkmingai įdėjote <a href="%s">%s</a> į savo <a href="%s">krepšelį</a>!';
 $_['text_empty']            = 'Užsakymų nėra!';
 $_['text_error']            = 'Toks užsakymas nerastas!';
 
-$_['text_status']           = 'Būsena:';
-$_['text_customer']         = 'Pirkėjas:';
-$_['text_products']         = 'Prekės:';
-$_['text_total']            = 'Viso:';
 
 // Column
 $_['column_order_id']       = 'Užsakymo ID';
 $_['column_product']        = 'No. of Products';
-$_['column_customer']       = 'Customer';
+$_['column_customer']       = 'Pirkėjas';
 $_['column_name']           = 'Prekės pavadinimas';
 $_['column_model']          = 'Modelis';
 $_['column_quantity']       = 'Kiekis';

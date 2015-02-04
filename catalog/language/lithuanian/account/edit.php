@@ -11,7 +11,6 @@ $_['text_success']        = 'Pavyko: Jūsų paskyra sėkmingai atnaujinta.';
 // Entry
 $_['entry_firstname']     = 'Vardas:';
 $_['entry_lastname']      = 'Pavardė:';
-$_['entry_date_of_birth'] = 'Gimimo data:';
 $_['entry_email']         = 'El. paštas:';
 $_['entry_telephone']     = 'Telefonas:';
 $_['entry_fax']           = 'Faksas:';
@@ -22,4 +21,4 @@ $_['error_firstname']     = 'Vardas turi turėti nuo 1 iki 32 simbolių!';
 $_['error_lastname']      = 'Pavardė turi turėti nuo 1 iki 32 simbolių!';
 $_['error_email']         = 'El. pašto adresas įvestas klaidingai!';
 $_['error_telephone']     = 'Telefono numeris turi turėti nuo 3 iki 32 simbolių!';
-$_['error_custom_field'] = '%s required!';
+$_['error_custom_field'] = '%s privalomas!';

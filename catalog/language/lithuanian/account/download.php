@@ -10,6 +10,5 @@ $_['text_empty']      	= 'Jūs neturite ankstesnių parsisiunčiamų užsakymų!
 // Column
 $_['column_order_id']   = 'Užsakymo ID';
 $_['column_name']       = 'Vardas';
-$_['text_remaining']    = 'Liko';
 $_['column_size']       = 'Dydis';
 $_['column_date_added'] = 'Data pridėta';

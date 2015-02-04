@@ -30,13 +30,6 @@ $_['text_week']         = 'savaitė';
 $_['text_semi_month']   = 'pusmėnesis';
 $_['text_month']        = 'mėnuo';
 $_['text_year']         = 'metai';
-$_['text_price']        = 'Kaina:';
-$_['text_or']           = '- AR -';
-$_['text_on']           = ' pagal ';
-$_['text_share']        = 'Dalintis';
-$_['text_upload']       = 'Jūsų failas sėkmingai įkeltas!';
-$_['text_payment_profile'] = 'Mokėjimų profiliai';
-$_['text_wait']         = 'Palaukite!';
 
 // Entry
 $_['entry_qty']         = 'Kiekis';
@@ -51,13 +44,9 @@ $_['entry_captcha']     = 'Į žemiau esantį laukelį įveskite patikros kodą'
 $_['tab_description']     = 'Aprašymas';
 $_['tab_attribute']       = 'Sudėtis';
 $_['tab_review']          = 'Atsiliepimai (%s)';
-$_['tab_related']         = 'Susijusios prekės';
 
 // Error
 $_['error_name']        = 'Klaida: Atsiliepimo autoriaus vardas turi turėti nuo 3 iki 25 simbolių!';
 $_['error_text']        = 'Klaida: Atsiliepimas turi turėti nuo 25 iki 1000 simbolių!';
 $_['error_rating']      = 'Klaida: Prašome įvertinkite prekę!';
 $_['error_captcha']     = 'Klaida: Patikros kodas nesutampa su esančiu paveikslėlyje!';
-$_['error_upload']      = 'Įkėlimas privalomas!';
-$_['error_filename']    = 'Failo pavadinimas turi turėti nuo 3 iki 128 simbolių!';
-$_['error_filetype']    = 'Blogas failo tipas!';

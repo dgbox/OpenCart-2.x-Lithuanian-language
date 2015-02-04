@@ -2,18 +2,16 @@
 $_['heading_title'] = 'Pasikartojantys mokėjimai';
 $_['button_continue'] = 'Tęsti';
 $_['button_view'] = 'Peržiūrėti';
-$_['text_empty'] = 'Nerasta pasikartoančių mokėjimų profilų';
-$_['button_cancel_profile'] = 'Atšaukti mokėjimus';
+$_['text_empty'] = 'Nerasta pasikartoančių mokėjimų';
 $_['text_product'] = 'Prekė: ';
 $_['text_order'] = 'Užsakymas: ';
 $_['text_quantity'] = 'Kiekis: ';
 $_['text_account'] = 'Paskyra';
 $_['text_action'] = 'Veiksmas';
 $_['text_recurring'] = 'Pasikartojantys mokėjimai';
-$_['text_transactions'] = 'Tranzakcijos';
+$_['text_transactions'] = 'Sandoris';
 $_['button_return'] = 'Sugrįžti';
-$_['text_confirm_cancel'] = 'Ar jūs tikrai norite pašalinti profilį?';
-$_['text_empty_transactions'] = 'Nerasta tranzakcijų šiam profiliui';
+$_['text_empty_transactions'] = 'Nerasta šio profilio sandorių';
 
 $_['column_date_added'] = 'Sukurta';
 $_['column_type'] = 'Tipas';

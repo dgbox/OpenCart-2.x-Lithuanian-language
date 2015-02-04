@@ -1,2 +1,2 @@
 <?php
-$_['heading_title']     = 'Musu eBay parduotuveje';
+$_['heading_title']     = 'Mūsų eBay parduotuvėje';

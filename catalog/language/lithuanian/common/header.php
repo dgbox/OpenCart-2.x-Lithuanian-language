@@ -3,7 +3,7 @@
 $_['text_home']          = 'Pradžia';
 $_['text_wishlist']      = 'Norų sąrašas (%s)';
 $_['text_shopping_cart'] = 'Krepšelis';
-
+$_['text_category']      = 'Categories';
 $_['text_account']       = 'My Account';
 $_['text_register']      = 'Registruotis';
 $_['text_login']         = 'Prisijungti';

@@ -19,7 +19,6 @@ $_['text_comment']       = 'Grąžinimo komentarai';
 $_['text_history']       = 'Grąžinimų istorija';
 $_['text_empty']         = 'Nėra grąžinimų!';
 $_['text_agree']         = 'Aš perskaičiau ir sutinku su <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
-$_['text_customer']      = 'Pirkėjas:';
 
 // Column
 $_['column_return_id']   = 'Return ID';
