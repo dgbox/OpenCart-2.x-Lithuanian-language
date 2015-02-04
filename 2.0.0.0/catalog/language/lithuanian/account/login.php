@@ -18,5 +18,4 @@ $_['entry_password']               = 'Slaptažodis:';
 
 // Error
 $_['error_login']                  = 'Klaida: El. pašto adresas ir/arba slaptažodis nesutampa.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
 $_['error_approved']               = 'Klaida: Jūsų profilis turi būti patvirtintas administratoriaus, kad galėtumėte prisijungti.'; 

@@ -71,7 +71,6 @@ $_['entry_shipping'] 	             = 'Mano apmokėjimo adresas toks pat kaip pri
 // Error
 $_['error_warning']                  = 'Įvyko klaida vykdant jūsų užsakymą! Pamėginkite pasirinkti kitą apmokėjimo budą, arba <a href="%s">susisiekite su mumis</a>.';
 $_['error_login']                    = 'Klaida: Toks el. paštas nerastas, arba klaidingas slaptažodis';
-$_['error_attempts']                 = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
 $_['error_approved']                 = 'Dėmesio: Administratorius turi patvirtinti Jus, kad galėtumėte prisijungti.'; 
 $_['error_exists']                   = 'Dėmesio: Šis el. paštas jau registruotas sistemoje!';
 $_['error_firstname']                = 'Vardas turi būti nuo 1 iki 32 simbolių ilgio!';
