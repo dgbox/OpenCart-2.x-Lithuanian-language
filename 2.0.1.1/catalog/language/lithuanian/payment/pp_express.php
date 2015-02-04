@@ -16,11 +16,11 @@ $_['text_length']             = ' for %s payments';
 $_['express_entry_coupon']    = 'Enter your coupon here:';
 
 // Button
-$_['express_button_coupon']		= 'Add';
-$_['express_button_confirm']	= 'Confirm';
-$_['express_button_login']		= 'Continue to PayPal';
-$_['express_button_shipping']	= 'Update shipping';
-$_['button_cancel_recurring']	= 'Cancel payments';
+$_['button_express_coupon']   = 'Add';
+$_['button_express_confirm']  = 'Confirm';
+$_['button_express_login']    = 'Continue to PayPal';
+$_['button_express_shipping'] = 'Update shipping';
+$_['button_cancel_recurring'] = 'Cancel payments';
 
 // Error
 $_['error_heading_title']	  = 'There was an error';

@@ -24,7 +24,7 @@ $_['text_recurring_item']    = 'Grąžinama prekė';
 $_['text_payment_recurring']   = 'Payment Profile';
 $_['text_trial_description'] = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams) tada';
 $_['text_payment_description'] = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams)';
-$_['text_payment_until_canceled_description'] = '%s kiekvieną %d %s(s) iki atšaukimo';
+$_['text_payment_cancel']      = '%s kiekvieną %d %s(s) iki atšaukimo';
 
 // Column
 $_['column_image']           = 'Paveikslėlis';
