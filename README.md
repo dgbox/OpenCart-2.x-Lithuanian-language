@@ -1,48 +1,38 @@
-Open-Cart-Lithuanian
-====================
+# OpenCart 2.x Lithuanian language
 
-Lithuanian translations for OpenCart. Based on public translations made by:
-Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
-Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [removed email]
-Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
-Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
+Lithuanian language translation for OpenCart 2.x
 
-Updated for 1.5.5.x by Vytenis Pakėnas, vytenis@mood.lt http://stupid.popo.lt
-Admin updated (might be errors as not used in live) to 1.5.6.x
+Please contribute to translations!
+  * fork this repo and create pull requests
+  * send new translations via email: daugilas@gmail.com
 
-Feel free to commit changes, update the translations. Also please use branches if you update translations for any other OC version.
+## TODO
 
-Not translated:
-Admin
-Payment gateways (all of the)
+* /admin/*
+* Payment gateways (all of the)
 
-================================================
+## Install
 
-Lietuvių kalbos vertimas OpenCart el. komercijos platformai. Remtasi nemokamais vertimais:
-Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
-Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [pašalintas el. paštas]
-Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
-Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
+1. Upload the content;
+2. Fill in the following information:
+  * Language Name: ```Lietuvių```
+  * Code: ```lt```
+  * Locale: ```lt_LT.UTF-8,lt_LT,lt,lithuanian```
+  * Image: ```lt.png```
+  * Directory: ```lithuanian```
+  * File name: ```lithuanian```
 
-Atnaujino iki 1.5.5.x versijos Vytenis Pakėnas, vytenis@mood.lt,http://stupid.popo.lt
-Atnaujintas admin iki 1.5.6.x. Galimos klaidelės (nes nenaudojamas live)
+## Credits
 
-Drąsiai teikite atnaujinimus, pataisymus. Naudokitės versijavimu, jei jūsų vertimai pritaikytikitai versijai.
+Initial OC 2.x translation based on:
+* Opencart v1.5.5.x by Vytenis Pakėnas, vytenis@mood.lt
+* Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
+* Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
+* Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
+* Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas
+* Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
+* Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
 
-Šiuo metu neišversta:
-Administravimo panelė
-Mokėjimų mechanizmai (visi)
+## License
 
-================= Install ==================
-Upload the content. Fill in the following information:
-
-Language name: Lietuvių
-Code: lt
-Encoding: lt_LT.UTF-8,lt_LT,lt,lithuania
-Image: lt.png
-Directory: lithuanian
-File name: lithuanian
+(CC) [Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/)
