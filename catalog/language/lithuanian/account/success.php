@@ -7,4 +7,3 @@ $_['text_message']  = '<p>Sveikiname! Jūsų paskyra sukurta!</p> <p>Dabar galit
 $_['text_approval'] = '<p>Ačiū,kad užsiregitravote %s!</p><p>Kai tik Jūsų paskyrą patvirtins e-parduotuvės administraciją, gausite apie tai informaciją e-paštu.</p><p>Jei turite kokių nors klausimų apie šios e-parduotuvės veikimą, <a href="%s">prašome susisiekti su e-parduotuvės operatoriumi</a>.</p>';
 $_['text_account']  = 'Paskyra';
 $_['text_success']  = 'Pavyko';
-?>

@@ -1,11 +1,13 @@
 <?php
 // Heading
 $_['heading_title']     = 'Paieška';
- 
+$_['heading_tag']		= 'Tag - ';
+
 // Text
 $_['text_search']       = 'Prekės, atitinkančios paieškos kriterijus';
 $_['text_keyword']      = 'Raktažodžiai';
 $_['text_category']     = 'Visos kategorijos';
+$_['text_sub_category'] = 'Ieškoti in subkategorijose';
 $_['text_critea']       = 'Paieškos kriterijai';
 $_['text_empty']        = 'Neradome prekių, atitinkančių paieškos kriterijus.';
 $_['text_sub_category'] = 'Ieškoti subkategorijose';
@@ -18,8 +20,6 @@ $_['text_tax']          = 'Be mokesčių:';
 $_['text_reviews']      = '%s atsiliepimai.'; 
 $_['text_compare']      = 'Prekių palyginimas (%s)'; 
 $_['text_display']      = 'Rodyti:';
-$_['text_list']         = 'Sąrašą';
-$_['text_grid']         = 'Lentelę';
 $_['text_sort']         = 'Rikiuoti:';
 $_['text_default']      = 'Standartu';
 $_['text_name_asc']     = 'Vardas A - Ž';
@@ -35,4 +35,3 @@ $_['text_limit']        = 'Rodyti:';
 // Entry
 $_['entry_search']      = 'Ieškoti:';
 $_['entry_description'] = 'Ieškoti prekių aprašymuose';
-?>

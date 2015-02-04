@@ -1,11 +1,11 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']      = 'Prekių grąžinimas';
 
 // Text
 $_['text_account']       = 'Paskyra';
 $_['text_return']        = 'Grąžinimo informacija';
-$_['text_return_detail']    = 'Grąžinimo duomenys';
+$_['text_return_detail'] = 'Grąžinimo duomenys';
 $_['text_description']   = '<p>Užpildyke formą žemiau, kad gautumėte grąžinimo ID.</p>';
 $_['text_order']         = 'Užsakymo informacija';
 $_['text_product']       = 'Prekės informacija ir grąžinimo priežastis';
@@ -15,14 +15,19 @@ $_['text_order_id']      = 'Užsakymo ID:';
 $_['text_date_ordered']  = 'Užsakymo data:';
 $_['text_status']        = 'Būsena:';
 $_['text_date_added']    = 'Sukurta:';
-$_['text_customer']      = 'Pirkėjas:';
 $_['text_comment']       = 'Grąžinimo komentarai';
 $_['text_history']       = 'Grąžinimų istorija';
 $_['text_empty']         = 'Nėra grąžinimų!';
 $_['text_agree']         = 'Aš perskaičiau ir sutinku su <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_customer']      = 'Pirkėjas:';
 
 // Column
-$_['column_product']        = 'Prekės pavadinimas';
+$_['column_return_id']   = 'Return ID';
+$_['column_order_id']    = 'Order ID';
+$_['column_status']      = 'Būsena';
+$_['column_date_added']  = 'Sukurta';
+$_['column_customer']    = 'Pirkėjas';
+$_['column_product']     = 'Prekės pavadinimas';
 $_['column_model']       = 'Modelis';
 $_['column_quantity']    = 'Kiekis';
 $_['column_price']       = 'kaina';
@@ -30,8 +35,6 @@ $_['column_opened']      = 'Atidaryta';
 $_['column_comment']     = 'Komentarai';
 $_['column_reason']      = 'Priežastis';
 $_['column_action']      = 'Veiksmai';
-$_['column_date_added']  = 'Sukurta';
-$_['column_status']      = 'Būsena';
 
 // Entry
 $_['entry_order_id']     = 'Užsakymo ID:';
@@ -60,4 +63,3 @@ $_['error_model']        = 'Produkto modelis turi būti nuo 3 iki 64 simbolių!'
 $_['error_reason']       = 'Grąžinimo priežastis privaloma!';
 $_['error_captcha']      = 'Neteisingai įvesti simboliai iš paveikslėlio!';
 $_['error_agree']        = 'Dėmesio: Jūs privalote sutikti su %s!';
-?>

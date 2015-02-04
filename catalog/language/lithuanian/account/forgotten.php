@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']   = 'Pamiršote slaptažodį?';
 
 // Text
@@ -14,5 +14,3 @@ $_['entry_email']     = 'El. pašto adresas:';
 
 // Error
 $_['error_email']     = 'Klaida: Toks el. pašto adresas nerastas. Pabandykite dar kartą!';
-
-?>

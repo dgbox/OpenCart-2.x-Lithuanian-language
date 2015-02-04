@@ -12,7 +12,5 @@ $_['text_website']        = 'Tinklapis:';
 $_['text_customer_group'] = 'Klientų grupė:';
 $_['text_firstname']      = 'Vardas:';
 $_['text_lastname']       = 'Pavardė:';
-$_['text_company']        = 'Įmonė:';
 $_['text_email']          = 'El. paštas:';
 $_['text_telephone']      = 'Telefonas:';
-?>

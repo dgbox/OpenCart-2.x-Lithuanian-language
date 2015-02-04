@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']      = 'Mano paskyra';
 
 // Text
@@ -19,4 +19,3 @@ $_['text_transaction']   = 'Mano tranzakcijos';
 $_['text_newsletter']    = 'Užsakyti / atsisakyti naujienlaiškio';
 $_['text_recurring']     = 'Pasikartojantys mokėjimai';
 $_['text_transactions']  = 'Tranzakcijos';
-?>

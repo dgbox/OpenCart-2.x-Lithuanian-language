@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']      = 'Jūsų tranzakcijos';
 
 // Column
@@ -12,4 +12,3 @@ $_['text_account']       = 'Paskyra';
 $_['text_transaction']   = 'Jūsų tranzakcijos';
 $_['text_total']         = 'Esamas balansas:';
 $_['text_empty']         = 'Nėra tranzakcijų!';
-?>

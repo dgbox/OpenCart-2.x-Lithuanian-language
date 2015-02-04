@@ -15,4 +15,3 @@ $_['text_order']        = 'Užsakymų istorija';
 $_['text_wishlist']     = 'Norų sąrašas';
 $_['text_newsletter']   = 'Naujienlaiškis';
 $_['text_powered']      = 'Varikliukas <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-?>

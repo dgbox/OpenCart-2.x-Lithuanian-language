@@ -26,7 +26,6 @@ $_['text_new_total']            = 'Viso';
 $_['text_new_download']         = 'Kai jūsų apmokėjimas bus patvirtintas, jūs galėsit spustelėti ant nuorodos žemiau, prisijungti ir atsisiųsti produktą:';
 $_['text_new_comment']          = 'Užsakymo komentarai:';
 $_['text_new_footer']           = 'Jei turite klausimų galite atsakyti į šį laišką.';
-$_['text_new_powered']          = '';
 $_['text_update_subject']       = '%s - Užsakymo atnaujinimas %s';
 $_['text_update_order']         = 'Užsakymo ID:';
 $_['text_update_date_added']    = 'Užsakymo data:';
@@ -34,4 +33,3 @@ $_['text_update_order_status']  = 'Naujasis jūsų užsakymo statusas:';
 $_['text_update_comment']       = 'Užsakymo komentarai:';
 $_['text_update_link']          = 'Norėdami peržiūrėti savo užsakymą spauskite žemiau esančią nuorodą:';
 $_['text_update_footer']        = 'Jei turite klausimų galite atsakyti į šį laišką..';
-?>

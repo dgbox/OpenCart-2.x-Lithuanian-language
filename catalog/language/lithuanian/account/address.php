@@ -1,27 +1,28 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']     = 'Adresų knygutė';
 
 // Text
 $_['text_account']      = 'Paskyra';
 $_['text_address_book'] = 'Adresų knygutės įrašai';
 $_['text_edit_address'] = 'Redaguoti adresą';
-$_['text_insert']       = 'Adresas sėkmingai pridėtas';
-$_['text_update']       = 'Adresas sėkmingai redaguotas';
+$_['text_add']          = 'Adresas sėkmingai pridėtas';
+$_['text_edit']       	= 'Adresas sėkmingai redaguotas';
 $_['text_delete']       = 'Adresas sėkmingai ištrintas';
+$_['text_empty']        = 'You have no addresses in your account.';
 
 // Entry
-$_['entry_firstname']   = 'Vardas:';
-$_['entry_lastname']    = 'Pavardė:';
-$_['entry_company']     = 'Įmonė:';
-$_['entry_company_id']  = 'Registracijos Nr.:';
-$_['entry_tax_id']      = 'PVM kodas:';
-$_['entry_address_1']   = 'Adresas 1:';
-$_['entry_address_2']   = 'Adresas 2:';
-$_['entry_postcode']    = 'Pašto indeksas:';
-$_['entry_city']        = 'Miestas:';
-$_['entry_country']     = 'Šalis:';
-$_['entry_zone']        = 'Regionas:';
+$_['entry_firstname']   = 'Vardas';
+$_['entry_lastname']    = 'Pavardė';
+$_['entry_company']     = 'Įmonė';
+$_['entry_company_id']  = 'Įmonės kodas';
+$_['entry_tax_id']      = 'PVM kodas';
+$_['entry_address_1']   = 'Adresas 1';
+$_['entry_address_2']   = 'Adresas 2';
+$_['entry_postcode']    = 'Pašto kodas';
+$_['entry_city']        = 'Miestas';
+$_['entry_country']     = 'Valstybė';
+$_['entry_zone']        = 'Rajonas:';
 $_['entry_default']     = 'Pagrindinis adresas:';
 
 // Error
@@ -35,4 +36,4 @@ $_['error_postcode']    = 'Pašto indeksas šiai šaliai turi turėti nuo 2 iki 
 $_['error_city']        = 'Miesto pavadinimas turi turėti nuo 3 iki 128 simbolių!';
 $_['error_country']     = 'Prašom pasirinkti šalį!';
 $_['error_zone']        = 'Prašom pasirinkti regioną!';
-?>
+$_['error_custom_field']   = '%s privalomas(-i)!';

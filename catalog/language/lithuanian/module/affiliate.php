@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']    = 'Partnerystės programa';
 
 // Text
@@ -13,4 +13,3 @@ $_['text_password']    = 'Slaptažodis';
 $_['text_payment']     = 'Mokėjimo opcijos';
 $_['text_tracking']    = 'Referalų veiksmų žurnalas';
 $_['text_transaction'] = 'Tranzakcijos';
-?>

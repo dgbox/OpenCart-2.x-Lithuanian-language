@@ -24,4 +24,3 @@ $_['text_international_priority_freight']      = 'Tarptautinis pirmenybinis Frei
 $_['text_priority_overnight']                  = 'Pirmenybinis Pernakt';
 $_['text_smart_post']                          = 'Protingas pristatymas';
 $_['text_standard_overnight']                  = 'Standartinis Pernakt';
-?>

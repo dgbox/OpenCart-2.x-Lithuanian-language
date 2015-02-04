@@ -3,5 +3,4 @@
 $_['heading_title'] = 'Specialūs pasiūlymai';
 
 // Text
-$_['text_reviews']  = '%s įvertinimų.';
-?>
+$_['text_tax']      = 'Be mokesčių:';

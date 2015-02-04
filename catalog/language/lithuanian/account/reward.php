@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']      = 'Jūsų bičiulių taškai';
 
 // Column
@@ -12,4 +12,3 @@ $_['text_account']       = 'Paskyra';
 $_['text_reward']        = 'Bičiulių taškai';
 $_['text_total']         = 'Jūsų turimi bičiulių taškai:';
 $_['text_empty']         = 'Jūs neturite bičiulių taškų!';
-?>

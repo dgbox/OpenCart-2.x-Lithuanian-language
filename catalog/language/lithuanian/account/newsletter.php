@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']    = 'Naujienlaiškio prenumerata';
 
 // Text
@@ -9,4 +9,3 @@ $_['text_success']     = 'Pavyko: Jūsų naujienlaiškio prenumerata sėkmingai 
 
 // Entry
 $_['entry_newsletter'] = 'Užsakyti:';
-?>

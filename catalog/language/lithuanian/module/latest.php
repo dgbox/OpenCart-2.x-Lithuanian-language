@@ -1,7 +1,6 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']  = 'Naujausi';
 
 // Text
-$_['text_reviews']  = '%s atsiliepimai(-ų).'; 
-?>
+$_['text_tax']       = 'Be mokesčių:';

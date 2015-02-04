@@ -1,7 +1,6 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title'] = 'Rekomenduojami';
 
 // Text
-$_['text_reviews']  = 'Remiantis %s atsiliepimais(-ų).'; 
-?>
+$_['text_tax']      = 'Be mokesčių:';

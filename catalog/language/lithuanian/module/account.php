@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']    = 'Paskyra';
 
 // Text
@@ -14,8 +14,8 @@ $_['text_address']     = 'Naudojami adresai';
 $_['text_wishlist']    = 'Atmintinė';
 $_['text_order']       = 'Užsakymų istorija';
 $_['text_download']    = 'Atsisiuntimai';
+$_['text_reward']      = 'Reward Points';
 $_['text_return']      = 'Grąžinimai';
 $_['text_transaction'] = 'Tranzakcijos';
 $_['text_newsletter']  = 'Naujienlaiškis';
 $_['text_recurring']   = 'Pasikartojantys mokėjimai';
-?>

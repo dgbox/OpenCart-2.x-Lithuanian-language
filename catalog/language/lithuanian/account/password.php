@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']  = 'Pakeisti slaptažodį';
 
 // Text
@@ -14,4 +14,3 @@ $_['entry_confirm']  = 'Patvirtinkite slaptažodį:';
 // Error
 $_['error_password'] = 'Slaptaždis turi turėti nuo 3 iki 20 simbolių!';
 $_['error_confirm']  = 'Slaptažodis ir jo patvirtinimas nesutampa!';
-?>

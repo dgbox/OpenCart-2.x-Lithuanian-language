@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']                  = 'Užsakymo formavimas';
 
 // Text
@@ -29,17 +29,16 @@ $_['text_address_existing']          = 'Naudosiu egzistuojantį adresą';
 $_['text_shipping_method']           = 'Paririnkite pageidaujamą pristatymo būdą šiam užsakymui.';
 $_['text_payment_method']            = 'Pasirinkite pageidaujamą apmokėjimo būdą šiam užsakymui.';
 $_['text_comments']                  = 'Pridėkite komentarą prie šio užsakymo';
-
-$_['text_recurring_item']    = 'Grąžinama prekė';
-$_['text_payment_profile']   = 'Mokėjimų profilis';
-$_['text_trial_description'] = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams) tada';
-$_['text_payment_description'] = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams)';
+$_['text_recurring']                 = 'Grąžinama prekė';
+$_['text_payment_recurring']         = 'Mokėjimų profilis';
+$_['text_trial_description']         = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams) tada';
+$_['text_payment_description']       = '%s kiekvieną %d %s(s) skirtą %d mokėjimui(-ams)';
 $_['text_payment_until_canceled_description'] = '%s kiekvieną %d %s(s) iki atšaukimo';
-$_['text_day']               = 'diena';
-$_['text_week']              = 'savaitė';
-$_['text_semi_month']        = 'pusmėnesis';
-$_['text_month']             = 'mėnuo';
-$_['text_year']              = 'metai';
+$_['text_day']                       = 'diena';
+$_['text_week']                      = 'savaitė';
+$_['text_semi_month']                = 'pusmėnesis';
+$_['text_month']                     = 'mėnuo';
+$_['text_year']                      = 'metai';
 
 // Column
 $_['column_name']                    = 'Prekės pavadinimas';
@@ -49,30 +48,30 @@ $_['column_price']                   = 'Kaina';
 $_['column_total']                   = 'Viso';
 
 // Entry
-$_['entry_email_address']            = 'El-paštas:';
-$_['entry_email']                    = 'El-paštas:';
-$_['entry_password']                 = 'Slaptažodis:';
-$_['entry_confirm']                  = 'Slaptažodžio patvirtinimas:';
-$_['entry_firstname']                = 'Vardas:';
-$_['entry_lastname']                 = 'Pavardė:';
-$_['entry_telephone']                = 'Telefonas:';
-$_['entry_fax']                      = 'Faksas:';
-$_['entry_company']                  = 'Įmonė:';
-$_['entry_customer_group']           = 'Veikla:';
-$_['entry_company_id']               = 'Registracijos Nr.:';
-$_['entry_tax_id']                   = 'PVM mokėtojo kodas:';
-$_['entry_address_1']                = 'Adresas 1:';
-$_['entry_address_2']                = 'Adresas 2:';
-$_['entry_postcode']                 = 'Pašto indeksas:';
-$_['entry_city']                     = 'Miestas:';
-$_['entry_country']                  = 'Šalis:';
-$_['entry_zone']                     = 'Regionas:';
+$_['entry_email_address']            = 'El-paštas';
+$_['entry_email']                    = 'El-paštas';
+$_['entry_password']                 = 'Slaptažodis';
+$_['entry_confirm']                  = 'Slaptažodžio patvirtinimas';
+$_['entry_firstname']                = 'Vardas';
+$_['entry_lastname']                 = 'Pavardė';
+$_['entry_telephone']                = 'Telefonas';
+$_['entry_fax']                      = 'Faksas';
+$_['entry_address']                  = 'Pasirinkite adresą';
+$_['entry_company']                  = 'Įmonė';
+$_['entry_customer_group']           = 'Veikla';
+$_['entry_address_1']                = 'Adresas 1';
+$_['entry_address_2']                = 'Adresas 2';
+$_['entry_postcode']                 = 'Pašto kodas';
+$_['entry_city']                     = 'Miestas';
+$_['entry_country']                  = 'Valstybė';
+$_['entry_zone']                     = 'Rajonas';
 $_['entry_newsletter']               = 'Noriu gauti naujienas %s.';
 $_['entry_shipping'] 	             = 'Mano apmokėjimo adresas toks pat kaip pristatymo.';
 
 // Error
 $_['error_warning']                  = 'Įvyko klaida vykdant jūsų užsakymą! Pamėginkite pasirinkti kitą apmokėjimo budą, arba <a href="%s">susisiekite su mumis</a>.';
 $_['error_login']                    = 'Klaida: Toks el. paštas nerastas, arba klaidingas slaptažodis';
+$_['error_attempts']                 = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
 $_['error_approved']                 = 'Dėmesio: Administratorius turi patvirtinti Jus, kad galėtumėte prisijungti.'; 
 $_['error_exists']                   = 'Dėmesio: Šis el. paštas jau registruotas sistemoje!';
 $_['error_firstname']                = 'Vardas turi būti nuo 1 iki 32 simbolių ilgio!';
@@ -81,9 +80,6 @@ $_['error_email']                    = 'Neteisingas el. pašto adresas!';
 $_['error_telephone']                = 'Telefonas turi būti nuo 3 iki 32 simbolių ilgio!';
 $_['error_password']                 = 'Slaptažodis turi būti nuo 3 iki 20 simbolių ilgio!';
 $_['error_confirm']                  = 'Slaptažodžiai nesutampa!';
-$_['error_company_id']               = 'Įmonės registracijos numeris yra būtinas!';
-$_['error_tax_id']                   = 'PVM mokėtojo kodas yra privalomas!';
-$_['error_vat']                      = 'PVM kodas neteisingas!';
 $_['error_address_1']                = 'Adresas turi būti nuo 3 iki 128 simbolių ilgio!';
 $_['error_city']                     = 'Miestas turi būti nuo 2 iki 128 simbolių ilgio!';
 $_['error_postcode']                 = 'Pašto indeksas turi būti nuo 2 iki 10 simbolių ilgio!';
@@ -95,8 +91,4 @@ $_['error_shipping']                 = 'Klaida: Nepasirinktas pristatymo būdas!
 $_['error_no_shipping']              = 'Klaida: Jokie siuntimo būdai yra negalimi. Prašome <a href="index.php?route=information/contact">susisiekti su mumis</a> dėl pagalbos!';
 $_['error_payment']                  = 'Klaida: Nepasirinktas apmokėjimo būdas!';
 $_['error_no_payment']               = 'Klaida: Jokie apmokėjimo būdai yra negalimi. Prašome <a href="%s">susisiekite su mumis</a> dėl pagalbos!';
-
-$_['text_trial']             = '%s kiekvieną %s %s skirtą %s mokėjimams tada ';
-$_['text_recurring']         = '%s kiekvieną %s %s';
-$_['text_length']            = ' %s mokėjimams';	
-?>
+$_['error_custom_field']             = '%s privaloma!';

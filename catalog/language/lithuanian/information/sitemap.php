@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']    = 'Parduotuvės žemėlapis';
- 
+
 // Text
 $_['text_special']     = 'Specialūs pasiūlymai';
 $_['text_account']     = 'Mano paskyra';
@@ -15,4 +15,3 @@ $_['text_checkout']    = 'Atsiskaitymas';
 $_['text_search']      = 'Paieška';
 $_['text_information'] = 'Informacija';
 $_['text_contact']     = 'Kontaktai';
-?>

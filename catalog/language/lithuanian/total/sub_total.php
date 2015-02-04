@@ -1,4 +1,2 @@
 <?php
-
-$_['text_sub_total'] = 'Suma:';
-?>
+$_['text_sub_total'] = 'Tarpine suma';

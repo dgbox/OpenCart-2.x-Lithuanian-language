@@ -1,4 +1,2 @@
 <?php
-
-$_['text_total'] = 'Viso:';
-?>
+$_['text_total'] = 'Viso';

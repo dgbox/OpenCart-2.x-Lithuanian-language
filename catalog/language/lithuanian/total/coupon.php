@@ -1,5 +1,3 @@
 <?php
 // Text
-$_['text_coupon']   = 'Kuponas(%s):';
-
-?>
+$_['text_coupon']   = 'Kuponas(%s)';

@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']    = 'Įsigyti dovanų kuponą';
 
 // Text
@@ -11,13 +11,17 @@ $_['text_message']     = '<p>Ačiū už įsigytą dovanų kuponą! Kai tik baigs
 $_['text_for']         = '%s Dovanų kuponas skirtas %s';
 
 // Entry
-$_['entry_to_name']    = 'Gavėjo vardas:';
-$_['entry_to_email']   = 'Gavėjo el. paštas:';
-$_['entry_from_name']  = 'Jūsų vardas:';
-$_['entry_from_email'] = 'Jūsų el. paštas:';
-$_['entry_theme']      = 'Dovanų kupono išvaizda:';
+$_['entry_to_name']    = 'Gavėjo vardas';
+$_['entry_to_email']   = 'Gavėjo el. paštas';
+$_['entry_from_name']  = 'Jūsų vardas';
+$_['entry_from_email'] = 'Jūsų el. paštas';
+$_['entry_theme']      = 'Dovanų kupono išvaizda';
 $_['entry_message']    = 'Žinutė:<br /><span class="help">(Neprivaloma)</span>';
-$_['entry_amount']     = 'Vertė:<br /><span class="help">(Vertė turi būti nuo %s iki %s)</span>';
+$_['entry_amount']     = 'Vertė';
+
+// Help
+$_['help_message']     = 'Neprivaloma';
+$_['help_amount']     = 'Vertė:<br /><span class="help">(Vertė turi būti nuo %s iki %s)</span>';
 
 // Error
 $_['error_to_name']    = 'Gavėjo vardas turi būti nuo 1 iki 64 simbolių ilgio!';
@@ -26,4 +30,3 @@ $_['error_email']      = 'Neteisingai įvestas elektroninis paštas';
 $_['error_theme']      = 'Jūs privalote pasirinkti kupono išvaizdą!';
 $_['error_amount']     = 'Vertė turi būti nuo %s iki %s!';
 $_['error_agree']      = 'Dėmesio: Jūs privalote sutikti, kad dovanų kuponas negali būti gražintas pardavėjui!';
-?>

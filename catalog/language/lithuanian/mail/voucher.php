@@ -6,4 +6,3 @@ $_['text_from']     = 'Šį dovanų kuponą jums atsiuntė %s';
 $_['text_message']  = 'Palikta žinutė';
 $_['text_redeem']   = 'Norėdami panaudoti dovanų čekį, užsirašykite šį kodą <b>%s</b> tada paspauskite nuorodą žemiau ir pradėkite dėti į krepšelį prekes, kurioms norėsite panaudoti dovanų čekį. Dovanų čekio kodą jums reikės įvesti prieš užsakymo užbaigimą.';
 $_['text_footer']   = 'Jei turite klausimų, atsakykite į šį laišką.';
-?>
