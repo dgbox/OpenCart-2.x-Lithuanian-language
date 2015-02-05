@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Naudoti nuolaidos kupono koda';
+$_['heading_title'] = 'Naudoti nuolaidos kupono kodą';
 
 // Text
-$_['text_success']  = 'Sekme: Jusu nuolaidos kodas pritaikytas!';
+$_['text_success']  = 'Sėkme: Jūsų nuolaidos kodas pritaikytas!';
 
 // Entry
-$_['entry_coupon']  = 'Iveskite savo kupona cia';
+$_['entry_coupon']  = 'Įveskite savo kuponą čia';
 
 // Error
-$_['error_coupon']  = 'Demesio: Kodas yra nebegaliojantis, neteisingas arba i�naudotas.';
-$_['error_empty']   = 'Demesio: Iveskite kupono koda!';
+$_['error_coupon']  = 'Dėmesio: Kodas yra nebegaliojantis, neteisingas arba išnaudotas.';
+$_['error_empty']   = 'Dėmesio: Įveskite kupono kodą!';

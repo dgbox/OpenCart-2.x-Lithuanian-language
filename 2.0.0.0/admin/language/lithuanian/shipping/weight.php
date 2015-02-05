@@ -7,11 +7,11 @@ $_['text_shipping']    = 'Pristatymas';
 $_['text_success']     = 'Success: You have modified weight based shipping!';
 
 // Entry
-$_['entry_rate']       = 'Ákainiai:<br /><span class="help">Pavydys: 5:10.00,7:12.00 Svoris:Kaina,Svoris:Kaina, t.t.</span>';
-$_['entry_tax_class']        = 'Mokesèiø klasë:';
+$_['entry_rate']       = 'Ä®kainiai:<br /><span class="help">Pavydys: 5:10.00,7:12.00 Svoris:Kaina,Svoris:Kaina, t.t.</span>';
+$_['entry_tax_class']        = 'MokesÄiÅ³ klasÄ—:';
 $_['entry_geo_zone']   = 'Geo zona:';
 $_['entry_status']     = 'Statusas:';
-$_['entry_sort_order'] = 'Eiliğkumas:';
+$_['entry_sort_order'] = 'EiliÅ¡kumas:';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify weight based shipping!';

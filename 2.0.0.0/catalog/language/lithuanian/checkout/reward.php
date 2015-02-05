@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Naudoti lojalumo ta�kus (Ta�ku %s)';
+$_['heading_title'] = 'Naudoti lojalumo taškus (Taškų %s)';
 
 // Text
-$_['text_success']  = 'Sekme: Jusu lojalumo ta�ku nuolaida pritaikyta!';
+$_['text_success']  = 'Sėkme: Jūsų lojalumo taškų nuolaida pritaikyta!';
 
 // Entry
-$_['entry_reward']  = 'Lojalumo ta�ku panaudoti (Daugiausiai %s)';
+$_['entry_reward']  = 'Lojalumo taškų panaudoti (Daugiausiai %s)';
 
 // Error
-$_['error_reward']  = 'Demesio: Iveskite lojalumo ta�ku kieki';
-$_['error_points']  = 'Demesio: Jus neturite %s lojalumo ta�ku!';
-$_['error_maximum'] = 'Demesio: Maksimalus galimu panaudoti lojalumo ta�ku kiekis: %s!';
+$_['error_reward']  = 'Dėmesio: Įveskite lojalumo taškų kiekį';
+$_['error_points']  = 'Dėmesio: Jūs neturite %s lojalumo taškų!';
+$_['error_maximum'] = 'Dėmesio: Maksimalus galimų panaudoti lojalumo taškų kiekis: %s!';

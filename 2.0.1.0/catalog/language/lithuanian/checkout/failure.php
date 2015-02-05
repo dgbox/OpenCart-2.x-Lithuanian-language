@@ -3,9 +3,9 @@
 $_['heading_title'] = 'Apmokejimas nepavyko!';
 
 // Text
-$_['text_basket']   = 'Pirkiniu krep�elis';
+$_['text_basket']   = 'Pirkinių krepšelis';
 $_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Apmokejimas nepavyko';
+$_['text_failure']  = 'Apmokėjimas nepavyko';
 $_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
 
 <p>Possible reasons are:</p>
