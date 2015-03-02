@@ -10,7 +10,7 @@ $_['decimal_point']         = ',';
 $_['thousand_point']        = '.';
 
 // Text
-$_['text_home']             = 'Pradzia';
+$_['text_home']             = 'Pradžia';
 $_['text_yes']              = 'Taip';
 $_['text_no']               = 'Ne';
 $_['text_none']             = ' --- Ne --- ';
@@ -41,11 +41,11 @@ $_['button_write']          = 'Rašyti atsiliepimą';
 $_['button_login']          = 'Prisijungti';
 $_['button_update']         = 'Atnaujinti';
 $_['button_remove']         = 'Pašalinti';
-$_['button_reorder']        = 'Pakartoti';
-$_['button_return']         = 'Grįžti';
+$_['button_reorder']        = 'Užsisakyti dar kartą';
+$_['button_return']         = 'Grąžinti';
 $_['button_shopping']       = 'Tęsti apsipirkimą';
-$_['button_search']         = 'Paieška';
-$_['button_shipping']       = 'Pritaikyti siuntimą';
+$_['button_search']         = 'Ieškoti';
+$_['button_shipping']       = 'Patvirtinti pristatymą';
 $_['button_submit']         = 'Siųsti';
 $_['button_guest']          = 'Apmokėti neprisijungus';
 $_['button_view']           = 'Peržiūrėti';

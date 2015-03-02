@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Jūsų tranzakcijos';
+$_['heading_title']      = 'Jūsų pavedimai';
 
 // Column
-$_['column_date_added']  = 'Sukurta';
+$_['column_date_added']  = 'Pridėjimo data';
 $_['column_description'] = 'Aprašymas';
-$_['column_amount']      = 'Kiekis (%s)';
+$_['column_amount']      = 'Suma (%s)';
 
 // Text
 $_['text_account']       = 'Paskyra';
-$_['text_transaction']   = 'Jūsų tranzakcijos';
+$_['text_transaction']   = 'Jūsų pavedimai';
 $_['text_total']         = 'Esamas balansas:';
-$_['text_empty']         = 'Nėra tranzakcijų!';
+$_['text_empty']         = 'Nėra pavedimų!';

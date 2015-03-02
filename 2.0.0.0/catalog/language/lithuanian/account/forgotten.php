@@ -6,11 +6,11 @@ $_['heading_title']   = 'Pamiršote slaptažodį?';
 $_['text_account']    = 'Paskyra';
 $_['text_forgotten']  = 'Pamiršote slaptažodį';
 $_['text_your_email'] = 'Jūsų el. pašto adresas';
-$_['text_email']      = 'Įveskite el. pašto adresą, susietą su Jūsų paskyra. Paspauskite patvirtinti ir savo slaptažodį gausite e-paštu.';
-$_['text_success']    = 'Pavyko: Naujas slaptažodis sėkmingai išsiųstas nurodytu e-pašto adresu.';
+$_['text_email']      = 'Įveskite el. paštą kuriuo registravotės. Spauskite tęsti ir slaptažodį gausite el. paštu.';
+$_['text_success']    = 'Pavyko: Naujas slaptažodis sėkmingai išsiųstas nurodytu el. paštu.';
 
 // Entry
-$_['entry_email']     = 'El. pašto adresas:';
+$_['entry_email']     = 'El. pašto adresas';
 
 // Error
 $_['error_email']     = 'Klaida: Toks el. pašto adresas nerastas. Pabandykite dar kartą!';
